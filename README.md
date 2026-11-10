@@ -1,16 +1,16 @@
-## Hi there 👋
+### Kyrylo Venzhyk — Junior .NET Backend Developer
 
-<!--
-**KirilVenzhik/KirilVenzhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passau, Germany · authorized to work in Germany · open to relocation and remote
 
-Here are some ideas to get you started:
+I build backend systems in C# and .NET: REST APIs with ASP.NET Core, EF Core and PostgreSQL,
+and event-driven microservices with RabbitMQ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+- [FoodDelivery](https://github.com/KirilVenzhik/FoodDelivery_Dyploma) — 6 microservices behind a YARP gateway,
+  RabbitMQ choreography, transactional outbox, JWT with object-level authorization, CI on GitHub Actions.
+- [LaunchPad](https://github.com/KirilVenzhik/LaunchPad) — event-driven space launch tracker (in progress):
+  scheduled ingestion, change detection with content hashing, MassTransit outbox.
+
+**Stack:** C# · .NET · ASP.NET Core · EF Core · PostgreSQL · RabbitMQ · MassTransit · YARP · Docker · xUnit · GitHub Actions
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/kirill-venzhik) · venzhikkiril@gmail.com
