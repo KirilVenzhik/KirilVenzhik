@@ -13,4 +13,4 @@ and event-driven microservices with RabbitMQ.
 
 **Stack:** C# · .NET · ASP.NET Core · EF Core · PostgreSQL · RabbitMQ · MassTransit · YARP · Docker · xUnit · GitHub Actions
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/kirill-venzhik) · venzhikkiril@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/kirill-venzhik-89b489320/) · venzhikkiril@gmail.com
